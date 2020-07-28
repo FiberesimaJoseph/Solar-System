@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Solar System is a web app for students to study and see the environment of how solar system look like how time i takes for each planet to go round the sun.",
   "main": "index.js",
+  "engines": {
+    "node": "12.16.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
